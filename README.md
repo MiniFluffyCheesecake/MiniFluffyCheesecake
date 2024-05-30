@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiniFluffyCheesecake
 - 👀 I’m interested in learning data sceince/ data analytics.
-- 🌱 I’m currently learning different programs on different sites such as Jupyter and Github.
+- 🌱 I’m currently learning different programs on different sites such as Jupyter, RStudio and Github.
 - 💞️ I’m looking to collaborate on: N/A
 - 📫 How to reach me micmisyutina@gmail.com
 - 😄 Pronouns: she/her
